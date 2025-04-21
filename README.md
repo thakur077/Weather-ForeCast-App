@@ -61,14 +61,6 @@ with your actual API key.
 
 ---
 
-## 💡 Future Improvements
-- Dark mode toggle
-- Hourly weather view
-- Error animations or icons
-- Save favorite locations
-
----
-
 ## 🙌 Credits
 
 - [WeatherAPI](https://www.weatherapi.com/) for free weather data
